@@ -14,4 +14,11 @@ Este pacote contém exemplos de relatórios Jasper (.jrxml) rodando a biblioteca
 * [opcional] [PostgreSQL Connector](https://jdbc.postgresql.org/download.html) (se você pretende usar essa base dados)
 * [opcional] [Jaspersoft Studio](http://community.jaspersoft.com/project/jaspersoft-studio) (para criar e compilar seus relatórios)
 
+## Dúvidas?
+
+Abra uma [Issue](https://github.com/phcayres/ljasper/issues), ou pesquise por Issues antigas.
+
+## Licença
+
+MIT
 

@@ -1,0 +1,24 @@
+{
+  "contacts": {
+    "person": [
+      {
+        "nome": "Paulo Henrique Cayres",
+        "endereco": "Rua Teste, 1",
+        "cidade": "Curitiba",
+        "telefone": "+55 (41) 111-1111"
+      },
+      {
+        "nome": "Carlos Eduardo",
+        "endereco": "Rua Teste 2",
+        "cidade": "Campo Grande",
+        "telefone": "+55 (67) 222-2222"
+      },
+      {
+        "nome": "Jerolino Saraiva",
+        "endereco": "Rua Teste 3",
+        "cidade": "Campo Grande",
+        "telefone": "+55 (67) 333-3333"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 # ljasper
 Reports with JasperPHP on Laravel
 
-## Getting Started
+## Introdução
 Este pacote contém exemplos de relatórios Jasper (.jrxml) rodando a biblioteca JasperReports (https://github.com/cossou/JasperPHP.git) dentro do Framework Laravel. 
 
 > A biblioteca JasperReports é o mecanismo de geração de relatórios de código aberto mais popular do mundo. É inteiramente escrito em Java e é capaz de usar dados provenientes de qualquer tipo de fonte de dados e gerar documentos perfeitos que podem ser visualizado, impressos ou exportadom em uma variedade de formatos de documentos, incluindo HTML, PDF, Excel, OpenOffice e Word.

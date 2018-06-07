@@ -24,7 +24,7 @@ All .jrxml files are available inside /public/reports path.
 * [optional] [Jaspersoft Studio](http://community.jaspersoft.com/project/jaspersoft-studio) 
 
 
-## Dúvidas?
+## Issues?
 Open an [Issue](https://github.com/phcayres/ljasper/issues), or searsh for old on.
 
 ## Licence

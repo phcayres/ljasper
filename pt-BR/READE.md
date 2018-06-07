@@ -1,5 +1,5 @@
 # ljasper
-Reports with JasperPHP on Laravel
+Relatórios com JasperPHP no Laravel
 
 ## Introdução
 Este pacote contém exemplos de relatórios Jasper (.jrxml) rodando a biblioteca JasperReports (https://github.com/cossou/JasperPHP.git) dentro do Framework Laravel. 

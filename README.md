@@ -1,36 +1,36 @@
 # ljasper
-Relatórios com JasperPHP no Laravel
+Reports using JasperPHP on Laravel
 
-## Introdução
-Este pacote contém exemplos de relatórios Jasper (.jrxml) rodando a biblioteca JasperReports (https://github.com/cossou/JasperPHP.git) dentro do Framework Laravel. 
+## Getting Started
+This package contains Jasper reports (.jrxml) samples by running the JasperReports library (https://github.com/cossou/JasperPHP.git) in the Laravel Framework.
 
-> A biblioteca JasperReports é o mecanismo de geração de relatórios de código aberto mais popular do mundo. É inteiramente escrito em Java e é capaz de usar dados provenientes de qualquer tipo de fonte de dados e gerar documentos perfeitos que podem ser visualizado, impressos ou exportadom em uma variedade de formatos de documentos, incluindo HTML, PDF, Excel, OpenOffice e Word.
+> The JasperReports library is the most popular open source reporting engine in the world. It is fully written in Java and is able to use data from any kind of data source and generate perfect documents that can be viewed, printed or exported in a variety of document formats including HTML, PDF, Excel, OpenOffice and Word.
 
-## Sobre o Projeto
-Este projeto contém relatórios Jasper construídos utilizando o JasperSoft Studio. Abaixo listo os arquivos .jrxml que foram criados para exemplificar o uso da JasperReports dentro de um projeto Laravel:
+## About
+This project contains Jasper reports built using JasperSoft Studio. Below are the .jrxml files that were created to exemplify the use of JasperReports in a Laravel project:
 
-* json.jrxml -> Exemplo de relatório que utiliza um arquivo JSON como fonte de dados
-* pessoas.jrxml -> Exemplo de relatório que é uma listagem geral de pessoas cadastradas no banco de dados (migrations, factories e seeds acompanham o projeto)
-* pessoas-parameter.jrxml -> Exemplo de relatório que utiliza a função LIKE do SQL para realizar um filtro por meio de uma expressão de busca enviada como parâmtro na chamada do relatório
-* pes_fun_master.jrxml e pes_fun_detail.jrxml -> Exemplo de relatório que lista pessoas por função cadastradas no banco de dados
+* json.jrxml -> Sample report that uses a JSON file as data source
+* pessoas.jrxml -> Example of a general listing report of people registered in the database (migrations, factories and seeds ar available)
+* pessoas-parameter.jrxml -> Sample report that uses the SQL LIKE function to perform a filter through a search expression sent as a parameter in the report call
+* pes_fun_master.jrxml e pes_fun_detail.jrxml -> Sample report with people by function
 
-Todos os arquivos .jrxml estão dentro do diretório /public/reports.
+All .jrxml files are available inside /public/reports path.
 
-## Requisitos
+## Requeriments
 
 * Java JDK 1.8
 * PHP [exec()](http://php.net/manual/function.exec.php)
-* [opcional] [Mysql Connector](http://dev.mysql.com/downloads/connector/j/) (se você pretende usar essa base dados)
-* [opcional] [PostgreSQL Connector](https://jdbc.postgresql.org/download.html) (se você pretende usar essa base dados)
-* [opcional] [Jaspersoft Studio](http://community.jaspersoft.com/project/jaspersoft-studio) (para criar e compilar seus relatórios)
+* [optional] [Mysql Connector](http://dev.mysql.com/downloads/connector/j/) 
+* [optional] [PostgreSQL Connector](https://jdbc.postgresql.org/download.html) 
+* [optional] [Jaspersoft Studio](http://community.jaspersoft.com/project/jaspersoft-studio) 
 
 
 
 ## Dúvidas?
 
-Abra uma [Issue](https://github.com/phcayres/ljasper/issues), ou pesquise por Issues antigas.
+Open an [Issue](https://github.com/phcayres/ljasper/issues), or searsh for old on.
 
-## Licença
+## Licence
 
 MIT
 

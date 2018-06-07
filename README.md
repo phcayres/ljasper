@@ -25,7 +25,7 @@ All .jrxml files are available inside /public/reports path.
 
 
 ## Issues
-Open an [Issue](https://github.com/phcayres/ljasper/issues), or searsh for old on.
+Open an [Issue](https://github.com/phcayres/ljasper/issues), or search for old one.
 
 ## Licence
 MIT

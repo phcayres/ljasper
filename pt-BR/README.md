@@ -28,7 +28,7 @@ Todos os arquivos .jrxml estão dentro do diretório /public/reports.
 
 ## Dúvidas?
 
-Abra uma [Issue](https://github.com/phcayres/ljasper/issues), ou pesquise por Issues antigas.
+Abra uma [nova](https://github.com/phcayres/ljasper/issues), ou pesquise por dúvidas antigas.
 
 ## Licença
 
